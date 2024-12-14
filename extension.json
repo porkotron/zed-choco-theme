@@ -1,0 +1,10 @@
+{
+  "name": "Choco Theme",
+  "version": "0.0.1",
+  "authors": ["Petri Pyy <fosspork@gmail.com>"],
+  "description": "Choco Zed theme",
+  "repository": "https://github.com/porkotron/zed-choco-theme",
+  "themes": {
+    "Choco Theme": "themes/choco-color-theme.json"
+  }
+}
